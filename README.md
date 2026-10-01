@@ -43,7 +43,7 @@ I don't claim to know everything or pitch myself as a senior full-stack guru. I'
 
 <h4><code>// languages & daily tools</code></h4>
 <p>
-<code>Python</code> · <code>C / C++</code> · <code>SQL</code> · <code>TypeScript</code><br/>
+<code>Python</code> · <code>Java</code> · <code>C</code> · <code>SQL</code><br/>
 <code>Linux</code> · <code>Git</code> · <code>Bash</code> · <code>FastAPI</code>
 </p>
 
