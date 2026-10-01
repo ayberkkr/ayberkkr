@@ -37,42 +37,42 @@ I don't claim to know everything or pitch myself as a senior full-stack guru. I'
 <!-- 02. TOOLBOX & LEARNING -->
 ### `02 // toolbox & learning`
 
-<table width="100%" style="border-collapse: collapse;">
-  <tr>
-    <!-- Sol Sütun: Diller, Araştırma ve İkinci Bölüm (Endüstri) -->
-    <td width="58%" valign="top" style="border: none;">
-      <h4><code>// languages & daily tools</code></h4>
-      <p>
-        <code>Python</code> · <code>C / C++</code> · <code>SQL</code> · <code>TypeScript</code><br/>
-        <code>Linux</code> · <code>Git</code> · <code>Bash</code> · <code>FastAPI</code>
-      </p>
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
 
-      <h4><code>// currently learning & expanding ⏳</code></h4>
-      <p>
-        • <b>Zero-Knowledge & Proofs:</b> zkTLS, zkNotary, data authenticity<br/>
-        • <b>Blockchain Foundations:</b> Avalanche ecosystem, consensus primitives<br/>
-        • <b>Machine Learning:</b> Data pipelines, model evaluation & fundamentals
-      </p>
-      
-      <h4><code>// industrial engineering & systems</code></h4>
-      <p>
-        • Operations Research & Mathematical Optimization<br/>
-        • Systems Thinking, Queuing & Stochastic Processes
-      </p>
+<h4><code>// languages & daily tools</code></h4>
+<p>
+<code>Python</code> · <code>C / C++</code> · <code>SQL</code> · <code>TypeScript</code><br/>
+<code>Linux</code> · <code>Git</code> · <code>Bash</code> · <code>FastAPI</code>
+</p>
 
-      <br/>
-      <p style="color: #a8a29e; font-size: 13px;">
-        <i>"Simplicity is prerequisite for reliability."</i><br/>
-        — <b>Edsger W. Dijkstra</b>
-      </p>
-    </td>
+<h4><code>// currently learning & expanding ⏳</code></h4>
+<p>
+• <b>Zero-Knowledge & Proofs:</b> zkTLS, zkNotary, data authenticity<br/>
+• <b>Blockchain Foundations:</b> Avalanche ecosystem, consensus primitives<br/>
+• <b>Machine Learning:</b> Data pipelines, model evaluation & fundamentals
+</p>
 
-    <!-- Sağ Sütun: Gruvbox Donut Dil Grafiği -->
-    <td width="42%" align="center" valign="top" style="border: none;">
-      <h4><code>// top languages</code></h4>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayberkkr&layout=donut&theme=gruvbox&hide_border=true&title_color=f59e0b&text_color=d6c5a0&bg_color=18181b" alt="Top Languages" />
-    </td>
-  </tr>
+<h4><code>// industrial engineering & systems</code></h4>
+<p>
+• Operations Research & Mathematical Optimization<br/>
+• Systems Thinking, Queuing & Stochastic Processes
+</p>
+
+<p style="color: #a8a29e; font-size: 13px;">
+<i>"Simplicity is prerequisite for reliability."</i><br/>
+— <b>Edsger W. Dijkstra</b>
+</p>
+
+</td>
+<td width="42%" align="center" valign="top">
+
+<h4><code>// top languages</code></h4>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayberkkr&layout=donut&theme=gruvbox&hide_border=true&title_color=f59e0b&text_color=d6c5a0&bg_color=18181b" alt="Top Languages" />
+
+</td>
+</tr>
 </table>
 
 ---
