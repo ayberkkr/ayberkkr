@@ -1,0 +1,56 @@
+<svg width="100%" height="210" viewBox="0 0 850 210" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0c0a09"/>
+      <stop offset="40%" stop-color="#18181b"/>
+      <stop offset="100%" stop-color="#1c1917"/>
+    </linearGradient>
+
+    <!-- Warm Amber Wave Gradient -->
+    <linearGradient id="amberWave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#b45309"/>
+      <stop offset="35%" stop-color="#d97706"/>
+      <stop offset="70%" stop-color="#f59e0b"/>
+      <stop offset="100%" stop-color="#fbbf24"/>
+    </linearGradient>
+
+    <!-- Ambient Amber Top Glow -->
+    <radialGradient id="topGlow" cx="50%" cy="0%" r="60%">
+      <stop offset="0%" stop-color="#f59e0b" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#0c0a09" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Subtle Drop Shadow for Text -->
+    <filter id="textShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#000000" flood-opacity="0.8"/>
+    </filter>
+  </defs>
+
+  <!-- Base Canvas -->
+  <rect width="850" height="210" rx="12" fill="url(#bgGrad)"/>
+  <rect width="850" height="140" rx="12" fill="url(#topGlow)"/>
+
+  <!-- Top Amber Accent Line -->
+  <rect x="0" y="0" width="850" height="3" fill="url(#amberWave)"/>
+
+  <!-- Vintage Waves at Bottom -->
+  <!-- Wave 1: Dark Charcoal / Deep Rust Back Wave -->
+  <path d="M0 135 C 160 175, 310 115, 470 145 C 630 175, 730 130, 850 155 L 850 210 L 0 210 Z" fill="#78350f" fill-opacity="0.4"/>
+
+  <!-- Wave 2: Burnt Orange Mid Wave -->
+  <path d="M0 150 C 190 120, 350 180, 520 140 C 690 100, 770 170, 850 145 L 850 210 L 0 210 Z" fill="#d97706" fill-opacity="0.65"/>
+
+  <!-- Wave 3: Bright Vintage Amber Front Wave -->
+  <path d="M0 172 C 180 140, 360 195, 540 160 C 700 125, 780 180, 850 165 L 850 210 L 0 210 Z" fill="url(#amberWave)"/>
+
+  <!-- Title: Ayberk -->
+  <text x="425" y="88" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="52" font-weight="800" fill="#fffbeb" letter-spacing="1.5" filter="url(#textShadow)">
+    Ayberk
+  </text>
+
+  <!-- Subtitle -->
+  <text x="425" y="124" text-anchor="middle" font-family="'Space Mono', 'SF Mono', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" font-weight="500" fill="#fde68a" letter-spacing="0.5">
+    ai &amp; machine learning · second major: industrial engineering · btü
+  </text>
+</svg>
