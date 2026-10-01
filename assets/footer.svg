@@ -1,0 +1,28 @@
+<svg width="100%" height="90" viewBox="0 0 850 90" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#18181b"/>
+      <stop offset="100%" stop-color="#0c0a09"/>
+    </linearGradient>
+
+    <!-- Warm Amber Wave Gradient -->
+    <linearGradient id="footerWave" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#b45309"/>
+      <stop offset="35%" stop-color="#d97706"/>
+      <stop offset="70%" stop-color="#f59e0b"/>
+      <stop offset="100%" stop-color="#fbbf24"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="850" height="90" rx="10" fill="url(#footerBg)"/>
+
+  <!-- Back Wave -->
+  <path d="M0 40 C 180 65, 340 20, 510 48 C 680 75, 760 30, 850 50 L 850 90 L 0 90 Z" fill="#78350f" fill-opacity="0.4"/>
+
+  <!-- Front Wave -->
+  <path d="M0 55 C 210 25, 380 70, 560 42 C 710 18, 780 55, 850 48 L 850 90 L 0 90 Z" fill="url(#footerWave)"/>
+
+  <!-- Bottom Accent Line -->
+  <rect y="87" width="850" height="3" fill="url(#footerWave)"/>
+</svg>
