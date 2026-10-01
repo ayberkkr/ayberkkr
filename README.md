@@ -6,7 +6,7 @@
 
 <!-- HEADER: Warm Amber & Burnt Orange Waving Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c0a09,40:1c1917,75:d97706,100:f59e0b&height=210&section=header&text=Ayberk&fontSize=54&fontColor=fffbeb&fontAlignY=38&desc=ai%20%26%20machine%20learning%20%C2%B7%20second%20major%3A%20industrial%20engineering%20%C2%B7%20bt%C3%BC&descSize=14&descColor=fde68a&descAlignY=62&animation=fadeIn" width="100%" alt="Ayberk Banner" />
+  <img src="https://raw.githubusercontent.com/ayberkkr/ayberkkr/main/assets/header.svg" width="100%" alt="Ayberk Banner" />
 </div>
 
 <!-- MONO TYPEWRITER: Space Mono Terminal Effect -->
@@ -119,5 +119,5 @@ I don't claim to know everything or pitch myself as a senior full-stack guru. I'
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c0a09,40:1c1917,75:d97706,100:f59e0b&height=90&section=footer" width="100%" alt="Ayberk Footer" />
+  <img src="https://raw.githubusercontent.com/ayberkkr/ayberkkr/main/assets/footer.svg" width="100%" alt="Ayberk Footer" />
 </div>
